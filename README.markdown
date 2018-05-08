@@ -1,5 +1,5 @@
-# yamllint Configuration Templates
-A template configuration template for yamllint
+# The Unofficial yamllint Configuration Templates
+A template configuration template for yamllint  
 <https://github.com/Lin-Buo-Ren/yamllint-configuration-templates>
 
 ## Intellectual Property License
