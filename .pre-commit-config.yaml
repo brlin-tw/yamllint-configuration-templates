@@ -1,0 +1,10 @@
+%YAML 1.2
+---
+# pre-commit Framework Configuration
+# https://pre-commit.com/
+repos:
+  - repo: https://github.com/adrienverge/yamllint.git
+    rev: master
+    hooks:
+      - id: yamllint
+...
