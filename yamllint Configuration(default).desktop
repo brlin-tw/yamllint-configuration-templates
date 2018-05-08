@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=.yamllint
+Type=Link
+Icon=application-x-yaml
+URL=yamllint Configuration(default).yamllint
+# Comment=
