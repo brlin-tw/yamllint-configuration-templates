@@ -62,9 +62,10 @@ rules:
 
   # Use this rule to require or forbid the use of document start marker (`---`).
   # https://yamllint.readthedocs.io/en/stable/rules.html#module-yamllint.rules.document_start
-  document-start:
-    level: error
-    present: false
+  # PATCHED: Some config allows, while some config rejects document start markers
+  document-start: disable
+    #level: warning
+    #present: true
 
   # Use this rule to set a maximal number of allowed consecutive blank lines.
   # https://yamllint.readthedocs.io/en/stable/rules.html#module-yamllint.rules.empty_lines
