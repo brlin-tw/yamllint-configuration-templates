@@ -3,6 +3,9 @@
 # Configuration File of yamllint
 # https://yamllint.readthedocs.io
 #
+# This file is in YAML Ain’t Markup Language (YAML™)
+# http://yaml.org/
+#
 # This file is based on The Unofficial yamllint Configuration Templates
 # https://github.com/Lin-Buo-Ren/yamllint-configuration-templates
 rules:
