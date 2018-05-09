@@ -6,6 +6,9 @@
 # This file is in YAML Ain’t Markup Language (YAML™)
 # http://yaml.org/
 #
+# This file is based on the `default` pre-defined configuration from yamllint with documentation copied from its documentation
+# https://yamllint.readthedocs.io/en/stable/configuration.html#default-configuration
+#
 # This file is based on The Unofficial yamllint Configuration Templates
 # https://github.com/Lin-Buo-Ren/yamllint-configuration-templates
 rules:
