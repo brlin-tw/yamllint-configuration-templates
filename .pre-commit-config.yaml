@@ -7,4 +7,5 @@ repos:
     rev: master
     hooks:
       - id: yamllint
+        files: \.(yaml|yml|yamllint)$
 ...
